@@ -21,7 +21,8 @@ The dataset, named `netflix.csv`, is loaded into a Pandas DataFrame. It includes
 
 ## Project Structure
 
-- **analyze_netflix.ipynb:** Jupyter Notebook containing Python code for exploring and visualizing the Netflix dataset.
+- **project3.ipynb:** Jupyter Notebook containing Python code for exploring and visualizing the Netflix dataset.
+- **netflix.csv:** The CSV file containing all the required data
 
 ## Requirements
 
